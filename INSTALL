@@ -1,0 +1,9 @@
+Building zombucks
+
+See doc/readme-qt.rst for instructions on building zombucks QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of zombucks.
+
+See doc/build-*.txt for instructions on building zombucksd,
+the intended-for-services, no-graphical-interface, reference
+implementation of zombucks.
